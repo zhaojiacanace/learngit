@@ -7,3 +7,4 @@ this is a new branch dev
 Creating a new branch is quick AND simple.
 I am work into branch1
 update bug big
+update bug big2
